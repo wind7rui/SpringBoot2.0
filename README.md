@@ -1,4 +1,4 @@
-# SpringBoot2.0
+# Spring Boot 2.0
 《深入Spring Boot 2.0》系列内容，持续更新
 
 ## 目录
