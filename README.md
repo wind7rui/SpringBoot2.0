@@ -3,4 +3,4 @@
 
 ## 目录
 
-* [深入Spring Boot (一)：快速入门](http://mp.weixin.qq.com/s/WBobttZMTXwg3PsDBQLSZw"深入Spring Boot (一)：快速入门"){:target="_blank"} 
+* [深入Spring Boot (一)：快速入门](https://mp.weixin.qq.com/s/WBobttZMTXwg3PsDBQLSZw)
