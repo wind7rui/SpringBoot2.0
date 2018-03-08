@@ -12,3 +12,4 @@
 * [深入Spring Boot (二)：Spring Boot对构建系统的支持](https://mp.weixin.qq.com/s/LjzYb5NBDbSWaOoI9KnoDg)
 * [深入Spring Boot (三)：Properties属性配置文件使用详解](https://mp.weixin.qq.com/s/w3zJmMEInxgqLHzKYOMSGg)
 * [深入Spring Boot (四)：YAML属性配置文件使用详解](https://mp.weixin.qq.com/s/zzNo5tTR9OIhcYi8-x-kog)
+* [深入Spring Boot (五)：日志使用详解](https://mp.weixin.qq.com/s/9-C8zeIwF4TQrAIAsYgGBQ)
