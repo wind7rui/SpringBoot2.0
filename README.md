@@ -13,3 +13,7 @@
 * [深入Spring Boot (三)：Properties属性配置文件使用详解](https://mp.weixin.qq.com/s/w3zJmMEInxgqLHzKYOMSGg)
 * [深入Spring Boot (四)：YAML属性配置文件使用详解](https://mp.weixin.qq.com/s/zzNo5tTR9OIhcYi8-x-kog)
 * [深入Spring Boot (五)：日志使用详解](https://mp.weixin.qq.com/s/9-C8zeIwF4TQrAIAsYgGBQ)
+
+## 关于我
+* [头条号：](https://www.toutiao.com/c/user/62859607968/#mid=1575311975640078)
+* [公众号：](https://mp.weixin.qq.com/s/QE2PY9B4iFFV9gCabkJzcw)
