@@ -15,5 +15,5 @@
 * [深入Spring Boot (五)：日志使用详解](https://mp.weixin.qq.com/s/9-C8zeIwF4TQrAIAsYgGBQ)
 
 ## 关于我
-* <a href="https://www.toutiao.com/c/user/62859607968/#mid=1575311975640078" target="_blank">[头条号：Java实战技术]</a>
+* [头条号：Java实战技术](https://www.toutiao.com/c/user/62859607968/#mid=1575311975640078)
 * [公众号：JavaQ](https://mp.weixin.qq.com/s/QE2PY9B4iFFV9gCabkJzcw?_blank)
