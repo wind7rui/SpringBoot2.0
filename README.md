@@ -16,6 +16,7 @@
 * [深入Spring Boot (六)：使用SpringMVC框架创建Web应用](https://mp.weixin.qq.com/s/BPyEFP1RFobHc5MzniB6Pg)
 * [深入Spring Boot (七)：静态资源使用详解](https://mp.weixin.qq.com/s/GcbXt0eheOzSt3zgFG5YwA)
 * [深入Spring Boot (八)：模板引擎使用详解](https://mp.weixin.qq.com/s/3rbh-7l7GsRzVIFRpCxosQ)
+* [深入Spring Boot (九)：Web应用统一异常处理](http://mp.weixin.qq.com/s/FCc_obQeExwLtlUjkcGAMw)
 * 更新中...
 
 ## 关于我
