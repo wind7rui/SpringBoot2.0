@@ -22,4 +22,4 @@
 ## 关于我
 * [头条号：Java实战技术](https://www.toutiao.com/c/user/62859607968/#mid=1575311975640078)
 * [公众号：JavaQ](https://mp.weixin.qq.com/s/QE2PY9B4iFFV9gCabkJzcw?_blank)
-* [知识星球：](https://www.jianshu.com/p/cff8bc8a0290)
+* [知识星球](https://www.jianshu.com/p/cff8bc8a0290)
