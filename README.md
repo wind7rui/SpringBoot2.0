@@ -17,6 +17,7 @@
 * [深入Spring Boot (七)：静态资源使用详解](https://mp.weixin.qq.com/s/GcbXt0eheOzSt3zgFG5YwA)
 * [深入Spring Boot (八)：模板引擎使用详解](https://mp.weixin.qq.com/s/3rbh-7l7GsRzVIFRpCxosQ)
 * [深入Spring Boot (九)：Web应用统一异常处理](http://mp.weixin.qq.com/s/FCc_obQeExwLtlUjkcGAMw)
+* [深入Spring Boot (十)：整合Mybatis框架详解](https://mp.weixin.qq.com/s/l_AaIuF-JR1-d1dTDRIoTw)
 * 更新中...
 
 ## 关于我
