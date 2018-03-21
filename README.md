@@ -18,6 +18,7 @@
 * [深入Spring Boot (八)：模板引擎使用详解](https://mp.weixin.qq.com/s/3rbh-7l7GsRzVIFRpCxosQ)
 * [深入Spring Boot (九)：Web应用统一异常处理](http://mp.weixin.qq.com/s/FCc_obQeExwLtlUjkcGAMw)
 * [深入Spring Boot (十)：整合Mybatis框架详解](https://mp.weixin.qq.com/s/l_AaIuF-JR1-d1dTDRIoTw)
+* [深入Spring Boot (十一)：整合Redis详解](https://mp.weixin.qq.com/s/cVOyPmkVQghkTNzB4ug6fg)
 * 更新中...
 
 ## 关于我
