@@ -20,6 +20,9 @@
 * [深入Spring Boot (十)：整合Mybatis框架详解](https://mp.weixin.qq.com/s/l_AaIuF-JR1-d1dTDRIoTw)
 * [深入Spring Boot (十一)：整合Redis详解](https://mp.weixin.qq.com/s/cVOyPmkVQghkTNzB4ug6fg)
 * [深入Spring Boot (十二)：集成JSP](https://mp.weixin.qq.com/s/I6BxD34B_goFH2pOEjAsfA)
+* [深入Spring Boot (十三)：整合Kafka详解](https://mp.weixin.qq.com/s/LvCRySBAugjgDg_iRa8wwg)
+* [深入Spring Boot (十四)：jar/war打包解决方案](https://mp.weixin.qq.com/s/rKLTa0ewViXzlJegHSrHhg)
+* [深入Spring Boot (十五)：web.xml去哪了](https://mp.weixin.qq.com/s/MlsgqHZZbe0ioKBvCp9duw)
 * 更新中...
 
 ## 关于我
