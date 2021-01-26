@@ -23,6 +23,7 @@
 * [深入Spring Boot (十三)：整合Kafka详解](https://mp.weixin.qq.com/s/LvCRySBAugjgDg_iRa8wwg)
 * [深入Spring Boot (十四)：jar/war打包解决方案](https://mp.weixin.qq.com/s/rKLTa0ewViXzlJegHSrHhg)
 * [深入Spring Boot (十五)：web.xml去哪了](https://mp.weixin.qq.com/s/MlsgqHZZbe0ioKBvCp9duw)
+* [深入Spring Boot (十六)：从源码分析自动配置原理](https://mp.weixin.qq.com/s/IHzCiMv2SNPYm2CngBkvOQ)
 * 更新中...
 
 ## 关于我
